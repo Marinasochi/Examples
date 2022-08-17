@@ -9,7 +9,7 @@ internal class Program
 
         int xa = 1, ya = 1,
             xb = 6, yb = 5,
-            xc = 80, yc = 10;
+            xc = 80, yc = 90;
 
         Console.SetCursorPosition(xa,ya);
         Console.WriteLine("+");
