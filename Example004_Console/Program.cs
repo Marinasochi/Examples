@@ -1,6 +1,7 @@
 ﻿using System;
 namespace MyProgram
 {
+  // Вывод размера экрана и буфера консоли
   class Program
   {
     static void Main(string[] args)
